@@ -1,0 +1,11 @@
+.nav {
+    display: flex;
+
+    li {
+        padding: 0 30px;
+
+        &::marker {
+            color: transparent;
+        }
+    }
+}
